@@ -1,0 +1,37 @@
+{
+    "format_version": 2,
+    "metadata": {
+        "authors": [
+            "DrZaofu"
+        ],
+        "url": "https://github.com/DrZaofu/",
+        "license": "MPL-2.0"
+    },
+    "header": {
+        "name": "BuilderZF",
+        "description": "BuilderZF材质包，GitHub: https://github.com/DrZaofu/BuilderZF",
+        "uuid": "2f55b5ce-362d-8227-8d19-19c7b4f6b7b0",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 14, 0]
+    },
+    "modules": [
+        {
+            "description": "BuilderZF材质包，GitHub: https://github.com/DrZaofu/BuilderZF",
+            "type": "data",
+            "uuid": "fa6e90c8-c925-460f-8155-c8a60b753caa",
+            "version": [0, 0, 1]
+        },
+        {
+            "description": "BuilderZF材质包，GitHub: https://github.com/DrZaofu/BuilderZF",
+            "type": "client_data",
+            "uuid": "c05a992e-482a-455f-898c-58bbb4975e47",
+            "version": [0, 0, 1]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "a6e6d09c-e36d-e0ae-2f60-73fe5df8de49",
+            "version": [1, 0, 0]
+        }        
+    ]
+}

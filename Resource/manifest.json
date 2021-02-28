@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "BuilderZF",
+        "description": "BuilderZF材质包，GitHub: https://github.com/DrZaofu/BuilderZF",
+        "uuid": "a6e6d09c-e36d-e0ae-2f60-73fe5df8de49",
+        "version": [1, 0, 0]
+    },
+    "modules": [
+        {
+            "description": "BuilderZF材质包，GitHub: https://github.com/DrZaofu/BuilderZF",
+            "type": "resources",
+            "uuid": "743f6949-53be-44b6-b326-398005028819",
+            "version": [0, 0, 1]
+        },
+        {
+            "description": "BuilderZF材质包，GitHub: https://github.com/DrZaofu/BuilderZF",
+            "type": "experimental_custom_ui",
+            "uuid": "743f6949-53be-44b6-b326-39800502881a",
+            "version": [0, 0, 1]
+        }
+    ]
+}

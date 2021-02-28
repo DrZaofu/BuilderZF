@@ -1,0 +1,19 @@
+#vscode
+/.vscode
+
+#MacOS
+.DS_Store
+
+#close source (like design)
+/close
+
+#Writing
+__*
+
+#Temp
+/tmp
+
+#Others
+
+client
+server
